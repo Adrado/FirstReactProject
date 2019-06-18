@@ -3,25 +3,25 @@
    [
     {
         "title": "Task 1",
-        "responsable": "Mark",
+        "responsible": "Mark",
         "description": "Lorem ipsum",
         "priority": "low"
     },
     {
         "title": "Task 2",
-        "responsable": "Ryan",
+        "responsible": "Ryan",
         "description": "Lorem ipsum",
         "priority": "medium"
     },
     {
         "title": "Task 3",
-        "responsable": "Lorena",
+        "responsible": "Lorena",
         "description": "Lorem ipsum",
         "priority": "high"
     },
     {
         "title": "Task 4",
-        "responsable": "Fidel",
+        "responsible": "Fidel",
         "description": "Lorem ipsum",
         "priority": "high"
     }
